@@ -32,4 +32,4 @@ Hardware–software codesign project implementing a custom FPGA accelerator for 
 
 ## Authors
 
-- **Nabin Kumar Singh** — M.S. Student, Electrical and Computer Engineering, The University of Alabama in Huntsville (UAH)
+- **Nabin Kumar Singh** _ M.S. Student, Electrical and Computer Engineering, The University of Alabama in Huntsville (UAH)
