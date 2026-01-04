@@ -21,7 +21,7 @@ Hardware–software codesign project implementing a custom FPGA accelerator for 
 - `software/nios2_matrix_accel_benchmark.c`  
   Nios II C program containing both the software baseline and the hardware-accelerated path, plus timing/comparison.
 
-- `report/DE1SoC_NiosII_Matrix_Accelerator_Report.pdf`  
+- `/DE1SoC_NiosII_Matrix_Accelerator_Report.pdf`  
   Full design + methodology + performance results.
 
 ## How to use (high level)
